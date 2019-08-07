@@ -10,9 +10,9 @@
  
 the final project structure may be like this:
 
-![alt text](https://github.com/wandoubudou/FasterRcnn-HumanFlowDetection/blob/master/images/project.png"project")
+![alt text](https://github.com/wandoubudou/FasterRcnn-HumanFlowDetection/blob/master/images/project.png "project")
 
 
 ####here are some result demo
-![alt text](https://github.com/wandoubudou/FasterRcnn-HumanFlowDetection/blob/master/images/1.png"project")
-![alt text](https://github.com/wandoubudou/FasterRcnn-HumanFlowDetection/blob/master/images/2.png"project")
+![alt text](https://github.com/wandoubudou/FasterRcnn-HumanFlowDetection/blob/master/images/1.png "project")
+![alt text](https://github.com/wandoubudou/FasterRcnn-HumanFlowDetection/blob/master/images/2.png "project")
